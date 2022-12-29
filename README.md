@@ -1,5 +1,7 @@
 # Mercurial_Grabber
 
+MUST EXTRACT FOLDER FIRST BEFORE RUNNING!!!
+
 Features
 
  Grabs Roblox cookies from Roblox Studio
